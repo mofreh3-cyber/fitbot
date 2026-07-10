@@ -1,1 +1,0 @@
-Temporary asset staging for ChineseApp. This file will be removed after the images are transferred to Supabase.
